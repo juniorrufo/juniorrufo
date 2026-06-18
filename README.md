@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Arnaldo Junior! 👋
 
-<!--
-**juniorrufo/juniorrufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Infraestrutura de TI
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e por resolver problemas através da infraestrutura. Atualmente estou expandindo meus conhecimentos em Cloud e utilizo este GitHub para documentar minha evolução por meio de laboratórios, projetos e estudos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estudando
+
+- ☁️ AWS
+- ☁️ Azure
+- 🐳 Docker
+- 🐧 Linux
+- 🌐 Redes
+- 📚 Git e GitHub
+
+---
+
+## 🛠️ Experiência
+
+- Microsoft 365
+- Windows Server
+- Active Directory
+- Proxmox
+- VMware
+- GLPI
+- Redes Corporativas
+- Ubiquiti
+
+---
+
+## 🎯 Objetivo
+
+Construir um portfólio sólido de Infraestrutura e Cloud, compartilhando projetos e laboratórios práticos desenvolvidos ao longo da minha jornada de aprendizado.
+
+---
+
+## 📂 Em breve
+
+- AWS Labs
+- Docker Labs
+- Linux Labs
+- Microsoft 365 Labs
+- Networking Labs
+
+⭐ Obrigado por visitar meu perfil!
